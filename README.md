@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hey My name is Emad El-Deen </h1>
+<h1 align="center">Hi 👋, My name is Emad El-Deen </h1>
 
 
 
@@ -30,7 +30,3 @@ As a front-end React.js professional, I specialize in creating static and dynami
 <
 ------
 
-
-[ANii693](https://github.com/ANii693)
-
-Last Edited on: 28/02/2023
